@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <InternalsVisibleTo Include="Api;Console;Tests" />
+    <InternalsVisibleTo Include="Gropilot.Api;Console;Tests" />
   </ItemGroup>
 
 </Project>
